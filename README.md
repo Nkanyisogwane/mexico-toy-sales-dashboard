@@ -1,4 +1,4 @@
-# 🧸 Mexico Toy Sales — Power BI Dashboard
+# 🧸 Mexico Toy Sales - Power BI Dashboard
 
 An interactive Power BI dashboard analyzing 2 years (2022–2023) of sales and inventory data for a fictitious toy store chain in Mexico. Built to answer real business questions around profitability, seasonality, stockouts, and inventory efficiency.
 
@@ -51,5 +51,5 @@ This is a portfolio project built for practice and demonstration purposes. The d
 
 ---
 
-⭐ If you found this useful or have feedback, feel free to open an issue or connect with me on [LinkedIn](#).
+⭐ If you found this useful or have feedback, feel free to open an issue or connect with me on [https://www.linkedin.com/in/nkanyiso-gwane](#).
 
