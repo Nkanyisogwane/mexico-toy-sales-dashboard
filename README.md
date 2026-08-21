@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing 2 years (2022–2023) of sales and inventory data for a fictitious toy store chain in Mexico. Built to answer real business questions around profitability, seasonality, stockouts, and inventory efficiency.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](https://github.com/Nkanyisogwane/mexico-toy-sales-dashboard/commit/93ef40e7801103906fe3f440ae37f378b1073f58#diff-8ede33f3e859f7fa0a5a9f701b407cb421a27ec43957f272f4729307df1c1ebe)
 
 ---
 
