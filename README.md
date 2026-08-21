@@ -51,5 +51,6 @@ This is a portfolio project built for practice and demonstration purposes. The d
 
 ---
 
-⭐ If you found this useful or have feedback, feel free to open an issue or connect with me on [https://www.linkedin.com/in/nkanyiso-gwane](#).
+⭐ If you found this useful or have feedback, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/nkanyiso-gwane).
+
 
